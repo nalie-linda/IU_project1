@@ -1,7 +1,7 @@
 # IU_project1
 
-# Data set
-1.3 Column Description:
+# Data set:Column Description:
+
 • tmsp: timestamp of transaction
 • country: country of transaction
 • amount: transaction amount
